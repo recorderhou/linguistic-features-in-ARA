@@ -2,6 +2,10 @@
 
 To analyze the effect of some simple linguistic features on ARA.
 
+To extract features:
+
+
+
 Run these code by:
 
 **bert_with_feature.py**
